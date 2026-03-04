@@ -23,7 +23,7 @@ Microsoft Excel: Advanced Pivot Tables, Slicers, and Data Modeling.
 
 Data Visualization: Custom 3D Bar Charts, Doughnut Charts (Gauge style), and Dynamic Line Trends.
 
-
+![Customer Churn Dashboard](Final_dashboard.png)
 
 Business Intelligence: Created Actionable Insight cards for executive decision-making.
 -------------------------------------------------------------------------------------------------
