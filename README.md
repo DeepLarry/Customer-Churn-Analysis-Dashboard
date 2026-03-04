@@ -29,5 +29,7 @@ Business Intelligence: Created Actionable Insight cards for executive decision-m
 -------------------------------------------------------------------------------------------------
 📂 How to Use
 Download the .xlsx file from this repository.
+
 Open in Excel and enable Macros/Content if prompted.
+
 Use the Slicers to filter data and see how churn patterns change across different categories.
