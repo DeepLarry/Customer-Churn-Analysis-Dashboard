@@ -2,6 +2,9 @@ This project focuses on analyzing customer attrition in an online retail setting
 the goal was to dig deep into the data, identify why customers are leaving,
 and pinpoint high-risk segments to help the business take immediate action.
 
+![Customer Churn Dashboard](dashboard.png)
+
+
 **Key Features & Functionality**
 Interactive Analytics: Powered by Excel Slicers for real-time filtering by promotion response and satisfaction levels.
 
@@ -19,6 +22,8 @@ Promotion Gap :  Analysis shows that customers who "Ignored" or "Unsubscribed" f
 Microsoft Excel: Advanced Pivot Tables, Slicers, and Data Modeling.
 
 Data Visualization: Custom 3D Bar Charts, Doughnut Charts (Gauge style), and Dynamic Line Trends.
+
+
 
 Business Intelligence: Created Actionable Insight cards for executive decision-making.
 -------------------------------------------------------------------------------------------------
