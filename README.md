@@ -28,7 +28,7 @@ Data Visualization: Custom 3D Bar Charts, Doughnut Charts (Gauge style), and Dyn
 Business Intelligence: Created Actionable Insight cards for executive decision-making.
 -------------------------------------------------------------------------------------------------
 📂 How to Use
-Download the .xlsx file from this repository.
+Download the .xlsx file from this repository...
 
 Open in Excel and enable Macros/Content if prompted.
 
