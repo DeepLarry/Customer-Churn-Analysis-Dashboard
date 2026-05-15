@@ -25,7 +25,7 @@ Data Visualization: Custom 3D Bar Charts, Doughnut Charts (Gauge style), and Dyn
 
 ![Customer Churn Dashboard](Final_dashboard.png)
 
-Business Intelligence: Created Actionable Insight cards for executive decision-making.
+Business Intelligence: Created Actionable Insight cards for executive decision-making>
 -------------------------------------------------------------------------------------------------
 📂 How to Use
 Download the .xlsx file from this repository...
