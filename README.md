@@ -1,6 +1,6 @@
 This project focuses on analyzing customer attrition in an online retail setting. With a 53% Churn Rate, 
 the goal was to dig deep into the data, identify why customers are leaving,
-and pinpoint high-risk segments to help the business take immediate action..
+and pinpoint high-risk segments to help the business take immediate action.
 
 ![Customer Churn Dashboard](dashboard.png)
 
